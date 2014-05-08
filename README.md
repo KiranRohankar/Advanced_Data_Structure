@@ -50,6 +50,7 @@ v2 v3 c2 // the edge (v2, v3) with cost c2
  
 Assume that vertices are labeled from 0 to n-1. 
 An example input is shown below: 
+
 3 2 
 
 0 1 5
@@ -63,6 +64,7 @@ In the user input mode, your program should display the cost of this tree in the
 in the constructed spanning tree in the following n-1 lines. Print the output to the standard output 
 stream. 
 The output for the example shown above is as follows: 
+
 13 
 
 0 1
