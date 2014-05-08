@@ -51,7 +51,9 @@ v2 v3 c2 // the edge (v2, v3) with cost c2
 Assume that vertices are labeled from 0 to n-1. 
 An example input is shown below: 
 3 2 
-0 1 5 
+
+0 1 5
+
 1 2 8 
  
 The graph consists of three vertices {0, 1, 2} and two edges (0,1) and (1,2) with costs 5 and 8 
@@ -62,7 +64,9 @@ in the constructed spanning tree in the following n-1 lines. Print the output to
 stream. 
 The output for the example shown above is as follows: 
 13 
-0 1 
+
+0 1
+
 1 2
 
 
