@@ -1,4 +1,4 @@
-Advanced_Data_Structure
+Advanced Data Structure
 =======================
 
 Prims Algorithm using fibonnacci heap and Arraylist 
